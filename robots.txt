@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nurbolatkyran-hash.github.io/Microscopicsentinelnalpykbi/sitemap.xml
